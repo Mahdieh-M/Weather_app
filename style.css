@@ -1,0 +1,16 @@
+h1 {
+  margin-top: 25px;
+  margin-bottom: 50px;
+}
+h2,
+h3 {
+  font-weight: 500;
+  font-size: 20px;
+}
+.situation {
+  margin-bottom: 150px;
+}
+.prediction {
+  font-weight: 500;
+  font-size: 20px;
+}
